@@ -1,0 +1,3 @@
+<!-- Use this file to provide workspace-specific custom instructions to Copilot. For more details, visit https://code.visualstudio.com/docs/copilot/copilot-customization#_use-a-githubcopilotinstructionsmd-file -->
+
+This project is a stylish, techy, card collector web app for managing trading cards. The app should allow users to upload card images (with or without camera/scan/ocr), organize cards by categories, display card details (photo, name, number, year, brand, set), and manage card statuses (verified, duplicate, new, etc). The web app is designed for GitHub Pages hosting. Future iOS and Android app builds are planned, with at least Android framing scaffolded.

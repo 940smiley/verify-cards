@@ -1,0 +1,13 @@
+{
+  "name": "card-collector-mobile",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "android": "echo 'Android build placeholder'",
+    "ios": "echo 'iOS build placeholder'"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-native": "^0.73.0"
+  }
+}
